@@ -2,11 +2,11 @@
 
 # Description
 
-[<img alt="" width="400px" src="public/example.png" />](https://samgliu.github.io/xxxx/)
+[<img alt="" width="400px" src="public/example.png" />](hhttps://samgliu.github.io/notes-app-ts-redux-demo//)
 
         A Notes Application
 
-[<h2>Live Demo</h2>](https://samgliu.github.io/xxxx)
+[<h2>Live Demo</h2>](https://samgliu.github.io/notes-app-ts-redux-demo/)
 
 # Built With
 
